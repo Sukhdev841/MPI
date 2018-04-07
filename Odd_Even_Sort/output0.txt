@@ -1,0 +1,12 @@
+
+Process[0]	 local array size = 4
+Process [0]  Before Sort : 1 4 7 0 
+Process[0] After Sort : 0 1 4 7 
+
+Processor[0] (Odd Phase) After compare split with processor [-1] : 0 1 4 7 
+
+Processor[0] (Even Phase) After compare split with processor [1] : -8 0 1 3 
+
+Processor[0] (Odd Phase) After compare split with processor [-1] : -8 0 1 3 
+
+Processor[0] (Even Phase) After compare split with processor [1] : -8 0 1 3 

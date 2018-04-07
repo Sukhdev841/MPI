@@ -1,0 +1,12 @@
+
+Process[3]	 local array size = 3
+Process [3]  Before Sort : 63 14 78 
+Process[3] After Sort : 14 63 78 
+
+Processor[3] (Odd Phase) After compare split with processor [-1] : 14 63 78 
+
+Processor[3] (Even Phase) After compare split with processor [2] : 14 63 78 
+
+Processor[3] (Odd Phase) After compare split with processor [-1] : 14 63 78 
+
+Processor[3] (Even Phase) After compare split with processor [2] : 14 63 78 
