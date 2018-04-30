@@ -1,0 +1,8 @@
+
+[Process 5] 2D rank = 5
+
+[Process 5] My Coordinates are : 1 2 
+
+[Process 5] rank from Coordinates is : 5
+Recived size is : 2
+16 17 

@@ -1,0 +1,12 @@
+
+[Process 0] 2D rank = 0
+
+[Process 0] My Coordinates are : 0 0 
+
+[Process 0] rank from Coordinates is : 0
+size 0 = 3
+size 1 = 3
+size 2 = 3
+
+Sending to 1
+Sending to 2
