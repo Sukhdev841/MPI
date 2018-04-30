@@ -4,9 +4,112 @@
 [Process 0] My Coordinates are : 0 0 
 
 [Process 0] rank from Coordinates is : 0
-size 0 = 3
-size 1 = 3
-size 2 = 3
 
+Enter Size of matrices : 
+Give Matrix A
+
+Enter A[1][1] : 
+Enter A[1][2] : 
+Enter A[1][3] : 
+Enter A[1][4] : 
+Enter A[2][1] : 
+Enter A[2][2] : 
+Enter A[2][3] : 
+Enter A[2][4] : 
+Enter A[3][1] : 
+Enter A[3][2] : 
+Enter A[3][3] : 
+Enter A[3][4] : 
+Enter A[4][1] : 
+Enter A[4][2] : 
+Enter A[4][3] : 
+Enter A[4][4] : 
+Input
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+
+Give Matrix B
+
+Enter B[1][1] : 
+Enter B[1][2] : 
+Enter B[1][3] : 
+Enter B[1][4] : 
+Enter B[2][1] : 
+Enter B[2][2] : 
+Enter B[2][3] : 
+Enter B[2][4] : 
+Enter B[3][1] : 
+Enter B[3][2] : 
+Enter B[3][3] : 
+Enter B[3][4] : 
+Enter B[4][1] : 
+Enter B[4][2] : 
+Enter B[4][3] : 
+Enter B[4][4] : size 0 = 8
+size 1 = 8
+
+AA is 
+1 2 5 6 3 4 7 8 
+BB is 
+1 1 1 1 1 1 1 1 
 Sending to 1
-Sending to 2
+Process[0] have received
+A
+1	2	
+5	6	
+
+B
+1	1	
+1	1	
+
+
+My right is :  [0][1] 
+My left is :  [0][1] 
+My Up is :  [1][0] 
+My down is :  [1][0] 
+My coords  [0][0] 
+
+Sending A to :  [0][0] 
+Receiving A from :  [0][0] 
+Sending A to :  [0][0] 
+Receiving A from :  [0][0] 
+My data After initial shifts
+A
+1	2	
+5	6	
+
+B
+1	1	
+1	1	
+
+
+C in iteration Before 0 is 
+0	0	
+0	0	
+
+C in iteration 0 is 
+3	3	
+11	11	
+
+Received A in iteration int 0 
+3	4	
+7	8	
+
+Received B in iteration int 0 
+1	1	
+1	1	
+
+C in iteration Before 1 is 
+3	3	
+11	11	
+
+C in iteration 1 is 
+10	10	
+26	26	
+
+Received A in iteration int 1 
+1	2	
+5	6	
+
+Received B in iteration int 1 
+1	1	
+1	1	

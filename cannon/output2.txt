@@ -1,8 +1,77 @@
 
 [Process 2] 2D rank = 2
 
-[Process 2] My Coordinates are : 0 2 
+[Process 2] My Coordinates are : 1 0 
 
 [Process 2] rank from Coordinates is : 2
-Recived size is : 3
-7 8 9 
+
+Received A
+9 10 11 12 13 14 15 16 
+Recevied B
+1 1 1 1 1 1 1 1 
+AA is 
+9 10 13 14 11 12 15 16 
+BB is 
+1 1 1 1 1 1 1 1 
+Sending to 3
+Process[2] have received
+A
+9	10	
+13	14	
+
+B
+1	1	
+1	1	
+
+
+My right is :  [1][1] 
+My left is :  [1][1] 
+My Up is :  [0][0] 
+My down is :  [0][0] 
+My coords  [1][0] 
+
+Sending A to :  [1][1] 
+Receiving A from :  [1][1] 
+Sending A to :  [1][0] 
+Receiving A from :  [1][0] 
+My data After initial shifts
+A
+11	12	
+15	16	
+
+B
+1	1	
+1	1	
+
+
+C in iteration Before 0 is 
+0	0	
+0	0	
+
+C in iteration 0 is 
+23	23	
+31	31	
+
+Received A in iteration int 0 
+9	10	
+13	14	
+
+Received B in iteration int 0 
+1	1	
+1	1	
+
+C in iteration Before 1 is 
+23	23	
+31	31	
+
+C in iteration 1 is 
+42	42	
+58	58	
+
+Received A in iteration int 1 
+11	12	
+15	16	
+
+Received B in iteration int 1 
+1	1	
+1	1	

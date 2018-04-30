@@ -4,5 +4,65 @@
 [Process 1] My Coordinates are : 0 1 
 
 [Process 1] rank from Coordinates is : 1
-Recived size is : 3
-4 5 6 
+
+Process[1] have received
+A
+3	4	
+7	8	
+
+B
+1	1	
+1	1	
+
+
+My right is :  [0][0] 
+My left is :  [0][0] 
+My Up is :  [1][1] 
+My down is :  [1][1] 
+My coords  [0][1] 
+
+Sending A to :  [0][1] 
+Receiving A from :  [0][1] 
+Sending A to :  [1][1] 
+Receiving A from :  [1][1] 
+My data After initial shifts
+A
+3	4	
+7	8	
+
+B
+1	1	
+1	1	
+
+
+C in iteration Before 0 is 
+0	0	
+0	0	
+
+C in iteration 0 is 
+7	7	
+15	15	
+
+Received A in iteration int 0 
+1	2	
+5	6	
+
+Received B in iteration int 0 
+1	1	
+1	1	
+
+C in iteration Before 1 is 
+7	7	
+15	15	
+
+C in iteration 1 is 
+10	10	
+26	26	
+
+Received A in iteration int 1 
+3	4	
+7	8	
+
+Received B in iteration int 1 
+1	1	
+1	1	

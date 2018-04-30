@@ -1,0 +1,5 @@
+Process [4] waiting for scatter of N
+Process [4] waiting for scatter of A
+Process [4] got of size 5
+0 5 7 9 0 
+
